@@ -1,0 +1,12 @@
+﻿Afdeling;Gruppe;Id;Titel;Navn;Adresse 1;Adresse 2;Postnr.;By;Mobil - Land;Mobil - Dialcode;Mobil;Mobil - Land;Mobil - Dialcode;Fastnet tlf.;E-mail;Fødselsdato
+1 Administration;Gymnastikudvalg;1234567;Udvalgsmedlem;Bo Balle;Sundvej 13;9800;;12345567;voballe@gmail.drk;45;28510236;;;;;14-08-1984
+1 Administration;Gymnastikudvalg;2345678;Formand;Morten Landmand;Gyllevej 7;9800;;12345567;mortenlandmand@hotmail.drk;45;60174481;;;;;21-07-1990
+1 Administration;Gymnastikudvalg;3456789;Træner ;Pia Olderman;Mågevej 19;9800;;12345567;piaold@gmail.drk;45;26187239;;;;;06-06-1991
+1 Administration;Gymnastikudvalg;3456123;;Laura Olding;Genvej 19;9760;;12345567;laurairish@gmail.drk;45;26187239;;;;;06-03-1992
+1 Administration;Gymnastikudvalg;1234123;Kasserer;Kirsten Jensen;Irisvej 19;9760;;12345567;kirjen@gmail.drk;45;26187239;;;;;06-08-1977
+1 Administration;Gymnastikudvalg;1357924;;Bo Balleby;Kirkevej 12;9800;;12345567;boballeby@gmail.drk;45;28510236;;;;;30-08-1984
+;;;;;;;;;;;;;;;;
+;;OBS! På grund af ændring i Conventus skal den eksporterede medlemsfil inden den uploades i MinForening ændres på følgende felter:;;;;;;;;;;;;;;
+;;Postnumre skal flyttes hen under Adresse 2;;;;;;;;;;;;;;
+;;Mobilnumre skal flyttes hen under By;;;;;;;;;;;;;;
+;;Emailadresser skal flyttes hen under Mobil - Land;;;;;;;;;;;;;;

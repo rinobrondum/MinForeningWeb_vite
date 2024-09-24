@@ -1,0 +1,4 @@
+email;navn;mobilnummer;fødselsdag;adresse;postnr;by
+importtest@minforening.dk;Test Testersen;88888888;24-12-1990;Testvej 60;8320;Testrup
+importtest2@minforening.dk;Test To Testersen;88884444;31-12-1990;Testvej 42;8320;Testrup
+importtest3@minforening.dk;TestTreTestersen;88884422;01-01-1991;Testvej 18;8320;Testrup

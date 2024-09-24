@@ -1,0 +1,199 @@
+{
+  "logos": {
+    "da": {
+      "dark": "https://web.minforening.dk/paths/images/logo-dark-da.png",
+      "light": "https://web.minforening.dk/paths/images/logo-white-da.png",
+      "invitationLogo": "https://web.minforening.dk/paths/images/logo-dark-da.png"
+    },
+    "en": {
+      "dark": "https://web.minforening.dk/paths/images/logo-dark-da.png",
+      "light": "https://web.minforening.dk/paths/images/logo-white-da.png",
+      "invitationLogo": "https://web.minforening.dk/paths/images/logo-dark-da.png"
+    },
+    "da_DK": {
+      "dark": "https://web.minforening.dk/paths/images/logo-dark-da.png",
+      "light": "https://web.minforening.dk/paths/images/logo-white-da.png",
+      "invitationLogo": "https://web.minforening.dk/paths/images/logo-dark-da.png"
+    },
+    "en_US": {
+      "dark": "https://web.minforening.dk/paths/images/logo-dark-da.png",
+      "light": "https://web.minforening.dk/paths/images/logo-white-da.png",
+      "invitationLogo": "https://web.minforening.dk/paths/images/logo-dark-da.png"
+    },
+    "en_UK": {
+      "dark": "https://web.minforening.dk/paths/images/logo-dark-da.png",
+      "light": "https://web.minforening.dk/paths/images/logo-white-da.png",
+      "invitationLogo": "https://web.minforening.dk/paths/images/logo-dark-da.png"
+    },
+    "de_DE": {
+      "dark": "https://web.minforening.dk/paths/images/logo-dark-da.png",
+      "light": "https://web.minforening.dk/paths/images/logo-white-da.png",
+      "invitationLogo": "https://web.minforening.dk/paths/images/logo-dark-da.png"
+    },
+    "pl_PL": {
+      "dark": "https://web.minforening.dk/paths/images/logo-dark-da.png",
+      "light": "https://web.minforening.dk/paths/images/logo-white-da.png",
+      "invitationLogo": "https://web.minforening.dk/paths/images/logo-dark-da.png"
+    },
+    "cz_CZ": {
+      "dark": "https://web.minforening.dk/paths/images/logo-dark-da.png",
+      "light": "https://web.minforening.dk/paths/images/logo-white-da.png",
+      "invitationLogo": "https://web.minforening.dk/paths/images/logo-dark-da.png"
+    },
+    "es_ES": {
+      "dark": "https://web.minforening.dk/paths/images/logo-dark-da.png",
+      "light": "https://web.minforening.dk/paths/images/logo-white-da.png",
+      "invitationLogo": "https://web.minforening.dk/paths/images/logo-dark-da.png"
+    },
+    "sk_SK": {
+      "dark": "https://web.minforening.dk/paths/images/logo-dark-da.png",
+      "light": "https://web.minforening.dk/paths/images/logo-white-da.png",
+      "invitationLogo": "https://web.minforening.dk/paths/images/logo-dark-da.png"
+    },
+    "no_NO": {
+      "dark": "https://web.minforening.dk/paths/images/logo-dark-da.png",
+      "light": "https://web.minforening.dk/paths/images/logo-white-da.png",
+      "invitationLogo": "https://web.minforening.dk/paths/images/logo-dark-da.png"
+    }
+  },
+  "badges": {
+    "appStore": {
+      "da_DK": "paths/images/badges/app-store-da.png",
+      "de_DE": "paths/images/badges/app-store-de.png",
+      "en_UK": "paths/images/badges/app-store-en.png",
+      "pl_PL": "paths/images/badges/app-store-pl.png",
+      "cz_CZ": "paths/images/badges/app-store-cz.png",
+      "es_ES": "paths/images/badges/app-store-es.png",
+      "sk_SK": "paths/images/badges/app-store-sk.png",
+      "no_NO": "paths/images/badges/app-store-no.png"
+    },
+    "googlePlay": {
+      "da_DK": "paths/images/badges/google-play-da.png",
+      "de_DE": "paths/images/badges/google-play-de.png",
+      "en_UK": "paths/images/badges/google-play-en.png",
+      "pl_PL": "paths/images/badges/google-play-pl.png",
+      "cz_CZ": "paths/images/badges/google-play-cz.png",
+      "es_ES": "paths/images/badges/google-play-es.png",
+      "sk_SK": "paths/images/badges/google-play-sk.png",
+      "no_NO": "paths/images/badges/google-play-no.png"
+    }
+  },
+  "sidebarText": {
+ "da": {
+      "firstSection": "Download din",
+      "secondSection": "Social app her"
+    },
+ "en": {
+      "firstSection": "Download din",
+      "secondSection": "Social app her"
+    },
+    "da_DK": {
+      "firstSection": "Download din",
+      "secondSection": "Social app her"
+    },
+    "de_DE": {
+      "firstSection": "Download din",
+      "secondSection": "Social app her"
+    },
+    "en_UK": {
+      "firstSection": "Download your",
+      "secondSection": "Social app here"
+    },
+  "en_US": {
+      "firstSection": "Download your",
+      "secondSection": "Social app here"
+    },
+    "pl_PL": {
+      "firstSection": "Download din",
+      "secondSection": "Social app her"
+    },
+    "cz_CZ": {
+      "firstSection": "Download din",
+      "secondSection": "Social app her"
+    },
+    "es_ES": {
+      "firstSection": "Download din",
+      "secondSection": "Social app her"
+    },
+    "sk_SK": {
+      "firstSection": "Download din",
+      "secondSection": "Social app her"
+    },
+    "no_NO": {
+      "firstSection": "Download din",
+      "secondSection": "Social app her"
+    }
+  },
+  "urls": {
+    "appLinks": {
+      "appStore": "https://itunes.apple.com/dk/app/minforening/id1149003433?l=da&mt=8",
+      "googlePlay": "https://play.google.com/store/apps/details?id=dk.minforening.app&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
+    },
+    "growthBookUrl": "https://cdn.growthbook.io/api/features/key_deve_2093c7c3e6e0d06c"
+    
+  },
+  "logoTexts": {
+    "da_DK": "Gratis app til dig og din forening",
+    "en_UK": "Gratis app til dig og din forening",
+"en_US": "Gratis app til dig og din forening",
+    "de_DE": "Gratis app til dig og din forening",
+    "pl_PL": "Gratis app til dig og din forening",
+    "cz_CZ": "Gratis app til dig og din forening",
+    "es_ES": "Gratis app til dig og din forening",
+    "sk_SK": "Gratis app til dig og din forening",
+    "no_NO": "Gratis app til dig og din forening"
+  },
+  "microsoftLogin": {
+    "auth": {
+                  "clientId": "",
+                  "authority": ""
+              }
+  },
+  "domainSettings": {
+    "web.minforening.dk": {
+      "mainWebsiteUrl": "minforening.dk",
+      "mainWebsiteUrlLabel": "MinForening",
+      "mainSortName": "MinForening",
+      "companyName": "MinForening",
+      "appName": "MinForening",
+      "lang": "da",
+      "tld": "dk",
+      "langCode": "da-DK",
+      "mainEmail": "kontakt@minforening.dk"
+    },
+    "localhost": {
+      "mainWebsiteUrl": "dui.dk",
+      "mainWebsiteUrlLabel": "DUI-LEG og VIRKE",
+      "mainSortName": "DUI",
+      "appName": "Vores DUI",
+      "lang": "da",
+      "tld": "dk",
+      "langCode": "da_DK",
+      "mainEmail": "dui@dui.dk"
+    }
+  },
+  "appSettings": {
+    "mainWebsiteUrl": "https://minforening.dk",
+    "mainWebsiteUrlLabel": "MinForening",
+    "apiEcommerceUrl": "https://localhost:44388/",
+    "apiMyOrgUrl": "https://api.minforening.dk/api",
+    "companyName": "MinForening",
+    "logoUrl": "https://web.minforening.dk/paths/images/logo-white-da.png",
+    "AzureAd": {
+      "clientId": "",
+      "authority": "",
+      "ValidateAuthority": true
+    }
+  },
+  "activityCurrency": {
+      "da_DK": "DKK",
+      "de": "EUR",
+      "en": "GBP",
+      "pl": "PLN",
+      "cz": "CZK",
+      "es": "EUR",
+      "sk": "EUR",
+      "no": "NOK"
+  }
+  
+}

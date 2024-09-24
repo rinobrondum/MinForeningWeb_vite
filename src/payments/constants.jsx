@@ -1,0 +1,64 @@
+import useCustomTranslation from 'lib/customT'
+import TransWrapper from 'lib/transWrapper'
+//const t = useCustomTranslation()
+
+// subscriptionTypes
+export const MONTHLY = 0;
+export const QUARTERLY = 1;
+export const SEMI_ANNUALLY = 2;
+export const ANNUALLY = 3;
+
+
+// Payment status
+export const ACTIVE = 0
+export const OVERDUE = 1
+export const PREVIOUS = 2
+
+// UserPaymentStatus
+export const USERPAYMENTSTATUS_NOT_DEFINED = 0
+export const USERPAYMENTSTATUS_NOT_PAID = 1
+export const USERPAYMENTSTATUS_PAID = 2
+export const USERPAYMENTSTATUS_PAID_EXTERNALLY = 3
+export const USERPAYMENTSTATUS_CANCELLED = 4
+export const USERPAYMENTSTATUS_REJECTED = 5
+export const USERPAYMENTSTATUS_RESERVED = 6
+export const USERPAYMENTSTATUS_REFUNDED = 7
+export const USERPAYMENTSTATUS_ADMIN_APPROVED = 8
+export const USERPAYMENTSTATUS_ADMIN_APPROVED_REJECTED = 9
+export const USERPAYMENTSTATUS_ADMIN_APPROVED_PAIDEXTERNALLY = 10
+
+export const ACTIVITYUSERPAYMENTSTATUS_NOT_DEFINED = 0
+export const ACTIVITYUSERPAYMENTSTATUS_NOT_PAID = 1
+export const ACTIVITYUSERPAYMENTSTATUS_PAID = 2
+export const ACTIVITYUSERPAYMENTSTATUS_PAID_EXTERNALLY = 3
+export const ACTIVITYUSERPAYMENTSTATUS_RESERVED = 4
+export const ACTIVITYUSERPAYMENTSTATUS_REFUNDED = 5
+export const ACTIVITYUSERPAYMENTSTATUS_CANCELLED = 6
+export const ACTIVITYUSERPAYMENTSTATUS_EXTERNAL_PENDING = 7
+
+
+export const USERPAYMENTSTATUS_MESSAGES = {
+  [USERPAYMENTSTATUS_NOT_DEFINED]: 'Betalt',
+  [USERPAYMENTSTATUS_PAID]: 'betalt via {{paymentMethod}}',
+  [USERPAYMENTSTATUS_NOT_PAID]: 'Ikke betalt',
+  [USERPAYMENTSTATUS_CANCELLED]: 'Annulleret af administrator',
+  [USERPAYMENTSTATUS_REJECTED]: 'Annulleret (Anmodning fra bruger)',
+  [USERPAYMENTSTATUS_RESERVED]: "Betalt, reserveret hos MobilePay",
+  [USERPAYMENTSTATUS_PAID_EXTERNALLY]: 'Betalt eksternt (Anmodning fra bruger)',
+  [USERPAYMENTSTATUS_REFUNDED]: 'Refunderet',
+  [USERPAYMENTSTATUS_ADMIN_APPROVED]: 'Godkendt af administrator', 
+  [USERPAYMENTSTATUS_ADMIN_APPROVED_REJECTED]: 'Annulleret af bruger, Godkendt af administrator',
+  [USERPAYMENTSTATUS_ADMIN_APPROVED_PAIDEXTERNALLY]: 'Betalt eksternt, Godkendt af administrator'
+}
+
+export const ACTIVITYUSERPAYMENTSTATUS_MESSAGES = {
+  [ACTIVITYUSERPAYMENTSTATUS_NOT_DEFINED]: 'Betalt',
+  [ACTIVITYUSERPAYMENTSTATUS_PAID]: 'Betalt via {{paymentMethod}}',
+  [ACTIVITYUSERPAYMENTSTATUS_NOT_PAID]: 'Ikke betalt',
+  [ACTIVITYUSERPAYMENTSTATUS_CANCELLED]: 'Annulleret af administrator',
+  [ACTIVITYUSERPAYMENTSTATUS_PAID_EXTERNALLY]: 'Betalt eksternt',
+  [ACTIVITYUSERPAYMENTSTATUS_REFUNDED]: 'Refunderet',
+  [ACTIVITYUSERPAYMENTSTATUS_EXTERNAL_PENDING]: 'Afventer fra ekstern system'
+}
+
+
